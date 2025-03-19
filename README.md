@@ -1,6 +1,5 @@
 # Hi! 👋 My name is Adhi Rizqi
 
-<!--
 ##  ✨ Data Enthusiast ✨ 
 I'm a **Data Analyst** and Aspiring **Data Engineer** with a robust foundation in **data analysis, ETL processes, and workflow automation**. I utilize tools such as **SQL, Python, Tableau, and Apache Airflow** to efficiently manage and interpret data.
 
@@ -10,4 +9,3 @@ Currently, I am delving into big data technologies like **Apache Spark** and exp
 
 - 📍 I'm based in Bogor, Indonesia
 - 📩 You can contact me at adhi.rizqi1@gmail.com
--->
