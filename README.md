@@ -27,7 +27,7 @@ My skills encompass **data visualization and statistical analysis**, enabling bu
 ---
 ## 📫 Let's Connect
 - 📍 I'm based in Bogor, Indonesia
-- 📩 You can contact me at [email](adhi.rizqi1@gmail.com)
+- 📩 Email: adhi.rizqi1[at]gmail[dot]com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adhirizqi/)
 
 Thanks for stopping by! 😄
