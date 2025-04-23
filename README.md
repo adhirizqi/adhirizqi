@@ -1,11 +1,33 @@
-# Hi! 👋 My name is Adhi Rizqi
+# Hi there, I'm Adhi Rizqi 👋
 
 ##  ✨ Data Enthusiast ✨ 
-I'm a **Data Analyst** and Aspiring **Data Engineer** with a robust foundation in **data analysis, ETL processes, and workflow automation**. I utilize tools such as **SQL, Python, Tableau, and Apache Airflow** to efficiently manage and interpret data.
+I'm a data enthusiast passionate about turning raw data into meaningful insights. I enjoy working on data pipelines, analytics, and visualization — especially using Python, SQL, and BI tools like Tableau.
+
+---
+
+## 🧠 What I Do
+- 🔎 Data Analysis & Visualization
+- 🛠️ Data Pipeline Automation (ETL)
+- 🗃️ Data Modeling & SQL Scripting
+- 🌐 Web Scraping
+
+---
 
 My skills encompass **data visualization and statistical analysis**, enabling businesses to make informed, data-driven decisions. I am deeply interested in **streamlining workflows, enhancing data pipelines, and discovering insights through predictive analytics and time-series analysis**.
 
-Currently, I am delving into big data technologies like **Apache Spark** and exploring cloud platforms such as **Google Cloud Platform (GCP)** to improve scalability and performance. With a continuous learning mindset, I aim to transform raw data into meaningful insights.
+---
 
+## 🛠️ Tools & Technologies
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, BeautifulSoup, Great Expectations
+- **Databases**: MongoDB, PostgreSQL
+- **Visualization**: Tableau, Matplotlib, Seaborn
+- **Others**: Jupyter, Git, Airflow
+
+---
+## 📫 Let's Connect
 - 📍 I'm based in Bogor, Indonesia
-- 📩 You can contact me at adhi.rizqi1@gmail.com
+- 📩 You can contact me at [email](adhi.rizqi1@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adhirizqi/)
+
+Thanks for stopping by! 😄
