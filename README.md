@@ -53,15 +53,6 @@ I'm a **Data Enthusiast** based in Jakarta, Indonesia, passionate about building
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhirizqi&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhirizqi&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - 🏗️ **dbt** (data build tool) — Modern data transformation
