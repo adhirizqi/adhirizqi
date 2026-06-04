@@ -21,7 +21,7 @@ I'm a **Data Enthusiast** based in Jakarta, Indonesia, passionate about building
 |---------|-------------|------------|
 | 🔗 [Zalora Men's Shirt Data Analysis](https://github.com/adhirizqi/web-scrapping-zalora) | This project analyzes men's shirt products available on the Zalora e-commerce platform using web scraping and data analysis techniques. The objective of this project is to explore product characteristics such as price distribution, customer ratings, and brand popularity, and to generate product recommendations based on specific criteria. | Python, SQL, Tableau |
 | 🔗 [Car Price Market Analysis](https://github.com/adhirizqi/data-visualization) | This project analyzes factors that influence used car selling prices using a real-world automotive transaction dataset. The objective is to explore how variables such as vehicle age, mileage, brand, transmission type, and market benchmark values affect the final selling price, and to build a predictive model that estimates market value based on vehicle attributes. | Pandas, PostgreSQL, Tableau |
-| 🔗 [Public Transportation Data Analysis – Transjakarta](https://github.com/CODA-Assignment-Bay/final-project-coda-001-rmt-group-001) | •	Built an end-to-end data pipeline to analyze daily passenger transactions, including tap-in/tap-out behavior, trip duration, and shelter preferences. | Airflow, MongoDB |
+| 🔗 [Public Transportation Data Analysis – Transjakarta](https://github.com/adhirizqi/transjakarta-data-analysis) | •	Built an end-to-end data pipeline to analyze daily passenger transactions, including tap-in/tap-out behavior, trip duration, and shelter preferences. | Airflow, MongoDB |
 
 ---
 
